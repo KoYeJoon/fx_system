@@ -1,0 +1,5 @@
+*.out
+*.o
+*.exe
+.DS_Store
+ajou_fx
